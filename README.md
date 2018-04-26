@@ -1,3 +1,3 @@
 # Exemplos-malucos
-esre diretorio conterá diversos arquivos de projetos 
+Este diretorio conterá diversos arquivos de projetos 
 utilitarios
